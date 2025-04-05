@@ -94,7 +94,7 @@ This project is for educational purposes. Free to use and modify.
 
 🌟 Live Demo (Screenshot nahi ,Screen par Dekho)
 -------------------------
-
+https://predict-segment-app.streamlit.app/
 
 
 * * *
